@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FitnessApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/FitnessApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/FitnessApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_body_detection-main/example/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
